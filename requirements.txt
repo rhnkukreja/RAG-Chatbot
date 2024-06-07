@@ -1,0 +1,9 @@
+langchain-text-splitters
+sentence_transformers
+pinecone
+
+openai
+pinecone-client
+
+PyMuPDF
+streamlit
